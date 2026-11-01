@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+# secrets
+.env.*
+!.env.example
+*accounts*.json
+# envs, builds, caches
+.venv*/
+venv/
+node_modules/
+.next/
+.cache/
+.local/
+.claude/
+.playwright-mcp/
+.DS_Store
