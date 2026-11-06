@@ -1,0 +1,50 @@
+{
+  "slug": "jazz",
+  "title": "Jazz 101",
+  "description": "From New Orleans to modal jazz: four short lessons, each followed by the tracks it talks about.",
+  "segments": [
+    {
+      "title": "New Orleans, where it all began",
+      "summary": "How jazz grew out of blues, ragtime and brass bands in New Orleans, and what collective improvisation sounds like.",
+      "narration": "Welcome to Jazz one-oh-one. Over the next four lessons we will walk through about sixty years of jazz history, and after each lesson you will hear the music we just talked about. So let's start where jazz started: New Orleans, at the turn of the twentieth century.\n\nNew Orleans was a port city where a lot of musical traditions met. You had the blues, coming from the rural South. You had ragtime, a written piano style with a bouncy, syncopated rhythm. And you had brass bands, playing at parades and funerals. Jazz is what happened when musicians mixed all of that and started to improvise.\n\nThe early bands had a typical lineup. A trumpet or cornet plays the melody. A clarinet weaves around it, higher and faster. A trombone slides underneath. And all three improvise at the same time. That is called collective improvisation, and it is the sound of early jazz: three voices talking over each other, but never getting in each other's way.\n\nThe first big star to come out of this world was Louis Armstrong. His great contribution was the long, featured solo. Instead of everybody improvising together all the time, Armstrong would step forward and play a long, inventive line on his own, with a huge tone and a relaxed sense of rhythm that musicians call swing. After him, the soloist became the center of jazz.\n\nIn the first track, West End Blues, listen to the opening. Armstrong plays an unaccompanied trumpet introduction that is one of the most famous openings in jazz. Then, in Black Bottom Stomp by Jelly Roll Morton, listen for the collective improvisation: count the voices, and notice how each one has its own job. Let's listen."
+,
+      "tracks": [
+        {"artist": "Louis Armstrong", "title": "West End Blues"},
+        {"artist": "Jelly Roll Morton", "title": "Black Bottom Stomp"}
+      ]
+    },
+    {
+      "title": "The swing era and the big bands",
+      "summary": "In the 1930s jazz became dance music for a whole country: big bands, sections and riffs.",
+      "narration": "Welcome back. You just heard small New Orleans groups. Now jump ahead to the nineteen thirties, when jazz became the popular music of America. This is the swing era, and its sound is the big band.\n\nA big band has around fifteen musicians, organized in sections. A trumpet section, a trombone section, a saxophone section, and a rhythm section with piano, bass, guitar and drums. With that many people, you cannot just improvise all at once. So the music is arranged. Someone writes parts for each section, and the sections talk to each other. The saxophones play a phrase, the brass answer. That back and forth is called call and response, and it comes straight from the blues and from church music.\n\nAnother key idea is the riff. A riff is a short phrase that repeats over and over, building energy. Big bands stack riffs on top of each other until the whole room is moving. This was dance music, played in ballrooms full of dancers.\n\nIn the middle of all this arrangement, there is still space for solos. A soloist stands up, plays a chorus, and the band backs them up.\n\nYou are going to hear three bands. Duke Ellington's orchestra, with Take the A Train, written by Billy Strayhorn: listen for how the sections pass the melody around. Count Basie, with One O'Clock Jump: notice how little the piano plays, and how much the riffs do the work. And Benny Goodman with Sing, Sing, Sing, where the drums drive the whole band. Enjoy."
+,
+      "tracks": [
+        {"artist": "Duke Ellington", "title": "Take the \"A\" Train"},
+        {"artist": "Count Basie", "title": "One O'Clock Jump"},
+        {"artist": "Benny Goodman", "title": "Sing, Sing, Sing"}
+      ]
+    },
+    {
+      "title": "Bebop, music for listening",
+      "summary": "In the 1940s young musicians made jazz faster, harder and more complex, and it stopped being dance music.",
+      "narration": "Here is where jazz takes a sharp turn. In the early nineteen forties, a group of young musicians in New York started playing late at night, after their big band gigs, in small clubs in Harlem. What they created was called bebop.\n\nBebop is a reaction to swing. The groups are small again, usually four or five players. The tempos are very fast. The melodies are long, twisting lines full of sudden turns, and they are deliberately hard to play. The harmony is much more complex: the musicians add extra notes to the chords and change chords faster, so the soloist has more to navigate.\n\nThe structure of a bebop tune is simple, though, and it helps to know it. The band plays the melody, called the head, together. Then each musician takes turns improvising solos over the same chord changes. At the end, the band plays the head again. Head, solos, head. Once you know that, you can always tell where you are.\n\nThe two names to know are Charlie Parker on alto saxophone and Dizzy Gillespie on trumpet. And then there is Thelonious Monk on piano, who sounds like nobody else: strange pauses, notes that clash on purpose.\n\nThis is the moment jazz stopped being dance music and became music you sit down and listen to. In Ko-Ko, by Charlie Parker, and Salt Peanuts, by Dizzy Gillespie, listen to how fast the lines move. And in Round Midnight, Monk slows everything down. Listen to the space between the notes."
+,
+      "tracks": [
+        {"artist": "Charlie Parker", "title": "Ko-Ko"},
+        {"artist": "Dizzy Gillespie", "title": "Salt Peanuts"},
+        {"artist": "Thelonious Monk", "title": "'Round Midnight"}
+      ]
+    },
+    {
+      "title": "Cool, modal, and Kind of Blue",
+      "summary": "Late 1950s: jazz relaxes, slows its harmony down and opens new space for melody.",
+      "narration": "Last lesson. After bebop, many musicians wanted something different. Bebop was brilliant, but hot and crowded. So in the fifties, some players went in the opposite direction: softer tones, calmer tempos, more space. This became known as cool jazz.\n\nThen, at the end of the decade, Miles Davis tried something that changed jazz again. In bebop, the chords change constantly, every bar or two, and the soloist has to race through them. His idea was to stay on one scale for a long time instead. That idea is called modal jazz. Instead of a fast chain of chords, you get long stretches on a single mode, and the soloist has room to build a melody slowly.\n\nThe album where this comes together is Kind of Blue, from nineteen fifty nine. It is the best selling jazz record of all time, and a perfect place to start your own listening. The first track, So What, begins with a quiet conversation between piano and bass. Then the bass plays a short phrase and the horns answer with two notes that sound like the words so what. The whole tune uses just two scales.\n\nYou will also hear Take Five by the Dave Brubeck Quartet. Count along: it has five beats to the bar, not the usual four, but it still swings. And we end with John Coltrane, who played on Kind of Blue, taking the modal idea further in My Favorite Things, a show tune turned into a long, hypnotic improvisation on soprano saxophone.\n\nThat is the end of Jazz one-oh-one. From here, pick the style you liked best and go deeper. Thanks for listening."
+,
+      "tracks": [
+        {"artist": "Miles Davis", "title": "So What"},
+        {"artist": "The Dave Brubeck Quartet", "title": "Take Five"},
+        {"artist": "John Coltrane", "title": "My Favorite Things"}
+      ]
+    }
+  ]
+}
