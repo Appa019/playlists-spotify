@@ -47,6 +47,15 @@ class LessonTest(unittest.TestCase):
             self.assertLessEqual(len(seg["narration"]), podcast.MAX_CHARS)
             self.assertTrue(seg["tracks"])
 
+    def test_comments_follow_their_track(self):
+        lesson = {"slug": "s", "title": "L", "segments": [
+            {"title": "A", "narration": "n", "tracks": [{"artist": "x", "title": "T1"}, {"artist": "y", "title": "T2", "comment": "c"}]},
+        ]}
+        self.assertEqual(
+            [(guid, title) for guid, title, _, _ in podcast.narrations(lesson)],
+            [("s-01", "L 1: A"), ("s-01-02", "L 1.2: on T2")],
+        )
+
     def test_publish_tracks_lesson_edits(self):
         with tempfile.TemporaryDirectory() as tmp:
             remote, repo = Path(tmp) / "remote.git", Path(tmp) / "repo"
@@ -56,7 +65,7 @@ class LessonTest(unittest.TestCase):
             subprocess.run(["git", "-C", str(repo), "config", "user.name", "t"], check=True)
 
             fake_tts = mock.patch.object(podcast, "synthesize", side_effect=lambda text, out, key: (out.parent.mkdir(exist_ok=True), out.write_bytes(text.encode())))
-            lesson = {"slug": "s", "title": "L", "segments": [{"title": "A", "narration": "one"}]}
+            lesson = {"slug": "s", "title": "L", "segments": [{"title": "A", "narration": "one", "tracks": []}]}
             publish = lambda: podcast.publish(lesson, repo, "https://h", "e@x", "k")
 
             with fake_tts as tts:
@@ -66,7 +75,7 @@ class LessonTest(unittest.TestCase):
 
                 # Edited narration and a new segment: the first is re-voiced, keeps its date.
                 first = json.loads((repo / "episodes.json").read_text())[0]
-                lesson["segments"] = [{"title": "A2", "narration": "uno"}, {"title": "B", "narration": "two"}]
+                lesson["segments"] = [{"title": "A2", "narration": "uno", "tracks": []}, {"title": "B", "narration": "two", "tracks": []}]
                 self.assertEqual(publish(), ["L 1: A2", "L 2: B"])
                 eps = json.loads((repo / "episodes.json").read_text())
                 self.assertEqual([e["title"] for e in eps], ["L 1: A2", "L 2: B"])

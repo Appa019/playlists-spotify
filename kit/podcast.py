@@ -30,12 +30,35 @@ ITUNES = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ET.register_namespace("itunes", ITUNES)
 
 
-def episode_title(lesson: dict, index: int) -> str:
+def episode_title(lesson: dict, index: int, track_no: int | None = None) -> str:
     """Stable title, also how `build` finds the episode on Spotify.
 
     No "i/n" total in it: adding a segment must not rename episodes already out.
+    A track comment is numbered after its segment and track: "3.2".
     """
-    return f"{lesson['title']} {index}: {lesson['segments'][index - 1]['title']}"
+    segment = lesson["segments"][index - 1]
+    if track_no is None:
+        return f"{lesson['title']} {index}: {segment['title']}"
+    return f"{lesson['title']} {index}.{track_no}: on {segment['tracks'][track_no - 1]['title']}"
+
+
+def narrations(lesson: dict):
+    """Every spoken piece of a lesson in play order: (guid, title, text, description).
+
+    A segment narration opens each segment; a track's optional "comment" plays
+    right after that track, between it and the next one.
+    """
+    for index, segment in enumerate(lesson["segments"], start=1):
+        guid = f"{lesson['slug']}-{index:02d}"
+        yield guid, episode_title(lesson, index), segment["narration"], segment.get("summary") or segment["title"]
+        for track_no, track in enumerate(segment["tracks"], start=1):
+            if track.get("comment"):
+                yield (
+                    f"{guid}-{track_no:02d}",
+                    episode_title(lesson, index, track_no),
+                    track["comment"],
+                    f"A note on {track['title']} by {track['artist']}.",
+                )
 
 
 def synthesize(text: str, out: Path, api_key: str) -> None:
@@ -113,31 +136,30 @@ def publish(lesson: dict, podcast_dir: Path, base_url: str, email: str, api_key:
     now = datetime.now(timezone.utc)
     changed = []
 
-    for index, segment in enumerate(lesson["segments"], start=1):
-        guid = f"{lesson['slug']}-{index:02d}"
+    for position, (guid, title, text, description) in enumerate(narrations(lesson), start=1):
         # The text hash names the file: Spotify only re-fetches audio whose
         # enclosure URL changed, and an edited narration gets a fresh synthesis.
-        digest = hashlib.sha256(segment["narration"].encode()).hexdigest()[:8]
+        digest = hashlib.sha256(text.encode()).hexdigest()[:8]
         file = f"{guid}-{digest}.mp3"
         mp3 = podcast_dir / "episodes" / file
         if not mp3.exists():
-            print(f"  tts {guid} ({len(segment['narration'])} caracteres)")
-            synthesize(segment["narration"], mp3, api_key)
+            print(f"  tts {guid} ({len(text)} caracteres)")
+            synthesize(text, mp3, api_key)
 
         old = manifest.get(guid, {})
         if old.get("file") != file:
-            changed.append(episode_title(lesson, index))
+            changed.append(title)
             if old.get("file"):
                 (podcast_dir / "episodes" / old["file"]).unlink(missing_ok=True)
         # Title and text follow the lesson on every run; only the first pub date
         # sticks, one second apart to keep the lesson's order in the show.
         manifest[guid] = {
             "guid": guid,
-            "title": episode_title(lesson, index),
-            "description": segment.get("summary") or segment["title"],
+            "title": title,
+            "description": description,
             "file": file,
             "bytes": mp3.stat().st_size,
-            "pub_date": old.get("pub_date") or format_datetime(now + timedelta(seconds=index)),
+            "pub_date": old.get("pub_date") or format_datetime(now + timedelta(seconds=position)),
         }
 
     episodes = list(manifest.values())

@@ -66,7 +66,7 @@ def build(lesson: dict) -> None:
             sequence.append(episodes[title])
         else:
             missing.append(f"episódio não está no Spotify (rodou publish? ingestão leva horas): {title}")
-        for track in segment["tracks"]:
+        for track_no, track in enumerate(segment["tracks"], start=1):
             found = resolve_track(client, track)
             if found:
                 sequence.append(found["id"])
@@ -77,6 +77,12 @@ def build(lesson: dict) -> None:
                     print(f"  {found['artists'][0]['name']} - {found['name']} [{album['name']}, {album['release_date'][:4]}] {found['id']}")
             else:
                 missing.append(f"faixa não encontrada: {track['artist']} - {track['title']}")
+            if track.get("comment"):
+                comment = podcast.episode_title(lesson, index, track_no)
+                if comment in episodes:
+                    sequence.append(episodes[comment])
+                else:
+                    missing.append(f"episódio não está no Spotify (rodou publish? ingestão leva horas): {comment}")
 
     # A half-built lesson would play out of order, so refuse until all is there.
     if missing:
