@@ -6,98 +6,199 @@
     {
       "title": "The sound, and where it came from",
       "summary": "How Japan built its own fusion scene, the four traits that define it, and the pioneers who opened the door.",
-      "narration": "Welcome. For the next two hours we are going deep into one scene: Japanese jazz fusion, from the mid seventies to the late eighties. This first part is about the style itself and where it came from. After that, each part is about one key artist: who they are, how they play, and what makes them different from the others. Before every group of songs, I will tell you exactly what to listen for.\n\nStart with some background. Japan has loved jazz since the nineteen fifties. Tokyo was full of jazz cafes, small rooms where people sat in silence and listened to records on very good sound systems. So there was a large, serious audience, and a generation of Japanese musicians who studied jazz carefully, often by playing along with American records note for note.\n\nThen, around nineteen seventy, jazz in America changed. Miles Davis, Weather Report and Return to Forever plugged jazz into rock and funk: electric guitar, electric bass, keyboards and synthesizers, heavy drums. That is fusion. Japanese musicians picked it up quickly. At the same time, Japan's economy was booming, record companies had money, and new studios had the best equipment in the world. By the late seventies, Japan had a full fusion scene of its own.\n\nAnd it sounded different. There are four traits I want you to remember, because we will come back to them in every part of this lesson.\n\nOne: melody first. American fusion could be dark, dense and heavily improvised. Japanese fusion is built on themes you can hum, like pop songs without a singer.\n\nTwo: brightness. Major keys, open, sunny chords, an optimistic mood. Fans call it the sound of summer, or of driving along the coast at night.\n\nThree: precision. Tight arrangements, difficult lines played perfectly together, and very clean production. Solos exist, but they are planned to fit the song.\n\nFour: it lives next door to city pop, the Japanese pop of the same years. Many of these players spent their days as studio musicians on pop records, so the two styles share musicians, studios and sound.\n\nNow, the pioneers. You will hear three of them right after this.\n\nGuitarist Ryo Kawasaki moved to New York and played with American greats like Gil Evans and Elvin Jones. His track Raisins, from nineteen seventy six, is funky and loose, still close to the American sound. Notice the groove: the band sits on one rhythm and lets it breathe.\n\nTrumpeter Terumasa Hino also moved to New York, and in nineteen seventy nine he released City Connection. The title track is smoother and more polished. Listen to how the trumpet floats over a soft, steady disco and funk beat. You can already hear the city pop polish here.\n\nAnd pianist Naoya Matsuoka brought Latin music into the mix. You will hear him live at the Montreux Jazz Festival in nineteen eighty. Listen to the percussion, and to how hot and fast the band plays. Latin rhythm will come back again and again in this lesson.\n\nThree doors into the style: New York funk, city polish, and Latin heat. Let's listen."
-,
+      "narration": "Welcome. For the next two hours we are going deep into one scene: Japanese jazz fusion, from the mid seventies to the late eighties. This first part is about the style itself and where it came from. After that, each part is about one key artist: who they are, how they play, and what makes them different from the others. Before every group of songs, I will tell you exactly what to listen for.\n\nStart with some background. Japan has loved jazz since the nineteen fifties. Tokyo was full of jazz cafes, small rooms where people sat in silence and listened to records on very good sound systems. So there was a large, serious audience, and a generation of Japanese musicians who studied jazz carefully, often by playing along with American records note for note.\n\nThen, around nineteen seventy, jazz in America changed. Miles Davis, Weather Report and Return to Forever plugged jazz into rock and funk: electric guitar, electric bass, keyboards and synthesizers, heavy drums. That is fusion. Japanese musicians picked it up quickly. At the same time, Japan's economy was booming, record companies had money, and new studios had the best equipment in the world. By the late seventies, Japan had a full fusion scene of its own.\n\nAnd it sounded different. There are four traits I want you to remember, because we will come back to them in every part of this lesson.\n\nOne: melody first. American fusion could be dark, dense and heavily improvised. Japanese fusion is built on themes you can hum, like pop songs without a singer.\n\nTwo: brightness. Major keys, open, sunny chords, an optimistic mood. Fans call it the sound of summer, or of driving along the coast at night.\n\nThree: precision. Tight arrangements, difficult lines played perfectly together, and very clean production. Solos exist, but they are planned to fit the song.\n\nFour: it lives next door to city pop, the Japanese pop of the same years. Many of these players spent their days as studio musicians on pop records, so the two styles share musicians, studios and sound.\n\nNow, the pioneers. You will hear three of them right after this.\n\nGuitarist Ryo Kawasaki moved to New York and played with American greats like Gil Evans and Elvin Jones. His track Raisins, from nineteen seventy six, is funky and loose, still close to the American sound. Notice the groove: the band sits on one rhythm and lets it breathe.\n\nTrumpeter Terumasa Hino also moved to New York, and in nineteen seventy nine he released City Connection. The title track is smoother and more polished. Listen to how the trumpet floats over a soft, steady disco and funk beat. You can already hear the city pop polish here.\n\nAnd pianist Naoya Matsuoka brought Latin music into the mix. You will hear him live at the Montreux Jazz Festival in nineteen eighty. Listen to the percussion, and to how hot and fast the band plays. Latin rhythm will come back again and again in this lesson.\n\nThree doors into the style: New York funk, city polish, and Latin heat. Let's listen.",
       "tracks": [
-        {"artist": "Ryo Kawasaki", "title": "Raisins"},
-        {"artist": "Terumasa Hino", "title": "City Connection"},
-        {"artist": "Naoya Matsuoka", "title": "Noche Corriendo"}
+        {
+          "artist": "Ryo Kawasaki",
+          "title": "Raisins",
+          "comment": "That was Raisins, by Ryo Kawasaki. Notice how much room the band left: the groove stayed on one idea, and the guitar wandered freely over it. That looseness is the American side of fusion. Keep it in your ear, because the next track, City Connection by Terumasa Hino, does the opposite. Every part is arranged, the sound is glossy, and the trumpet sits on top like a singer. Listen for that change, from a jam to a production."
+        },
+        {
+          "artist": "Terumasa Hino",
+          "title": "City Connection"
+        },
+        {
+          "artist": "Naoya Matsuoka",
+          "title": "Noche Corriendo"
+        }
       ]
     },
     {
       "title": "Sadao Watanabe, the elder statesman",
       "summary": "The saxophonist who connected Japanese jazz to the world, from bossa nova and Africa to sunny Los Angeles fusion.",
-      "narration": "Our first artist is the oldest, and in many ways the father of the whole scene: alto saxophonist Sadao Watanabe.\n\nWatanabe was born in nineteen thirty three, so by the fusion years he was already a veteran. In the early sixties he went to study at the Berklee school of music in Boston, which was rare for a Japanese musician at the time. He played in America, and when he came home he brought new music with him, especially bossa nova from Brazil, which he helped make popular in Japan.\n\nThat is the first thing to understand about Watanabe: he is a traveler. Over his career he looked to Brazil, to the Caribbean, and above all to Africa. He made many trips to Kenya and gave his songs and albums Swahili names, like Safari and Maisha.\n\nThe second thing is his sound. Watanabe plays the alto saxophone with a warm, bright, singing tone. He came from bebop, so he can play fast and complex, but in his fusion records he chooses simplicity. Short, joyful phrases. Lots of space. He sounds like he is smiling while he plays.\n\nThe third thing is the Los Angeles connection. In nineteen seventy eight he recorded California Shower in Los Angeles, with American studio stars like Dave Grusin on keyboards and Lee Ritenour on guitar. That record set the template for the bright, clean Japanese fusion sound: West Coast production, sunny melody, and a groove you can relax into.\n\nSo what sets Watanabe apart from the younger artists you will meet next? They are bands and guitarists chasing new sounds and technical limits. Watanabe is a jazz elder who uses fusion to make warm, open, worldly music. Less flash, more feeling.\n\nHere is your listening guide. First, Safari: listen for the African flavor, in the rhythm and in how the melody repeats like a chant. Then California Shower, the classic: notice how the saxophone states the theme cleanly, and how relaxed the band behind him is. Then Fire Fly, from the eighties, where the production is more polished and the groove more pop. And finally Rendezvous, the title track of a nineteen eighty four album he made with American singer Roberta Flack as a guest. Listen to the ballad side of Watanabe: few notes, long tones, pure melody."
-,
+      "narration": "Our first artist is the oldest, and in many ways the father of the whole scene: alto saxophonist Sadao Watanabe.\n\nWatanabe was born in nineteen thirty three, so by the fusion years he was already a veteran. In the early sixties he went to study at the Berklee school of music in Boston, which was rare for a Japanese musician at the time. He played in America, and when he came home he brought new music with him, especially bossa nova from Brazil, which he helped make popular in Japan.\n\nThat is the first thing to understand about Watanabe: he is a traveler. Over his career he looked to Brazil, to the Caribbean, and above all to Africa. He made many trips to Kenya and gave his songs and albums Swahili names, like Safari and Maisha.\n\nThe second thing is his sound. Watanabe plays the alto saxophone with a warm, bright, singing tone. He came from bebop, so he can play fast and complex, but in his fusion records he chooses simplicity. Short, joyful phrases. Lots of space. He sounds like he is smiling while he plays.\n\nThe third thing is the Los Angeles connection. In nineteen seventy eight he recorded California Shower in Los Angeles, with American studio stars like Dave Grusin on keyboards and Lee Ritenour on guitar. That record set the template for the bright, clean Japanese fusion sound: West Coast production, sunny melody, and a groove you can relax into.\n\nSo what sets Watanabe apart from the younger artists you will meet next? They are bands and guitarists chasing new sounds and technical limits. Watanabe is a jazz elder who uses fusion to make warm, open, worldly music. Less flash, more feeling.\n\nHere is your listening guide. First, Safari: listen for the African flavor, in the rhythm and in how the melody repeats like a chant. Then California Shower, the classic: notice how the saxophone states the theme cleanly, and how relaxed the band behind him is. Then Fire Fly, from the eighties, where the production is more polished and the groove more pop. And finally Rendezvous, the title track of a nineteen eighty four album he made with American singer Roberta Flack as a guest. Listen to the ballad side of Watanabe: few notes, long tones, pure melody.",
       "tracks": [
-        {"artist": "Sadao Watanabe", "title": "Safari"},
-        {"artist": "Sadao Watanabe", "title": "California Shower"},
-        {"artist": "Sadao Watanabe", "title": "Fire Fly"},
-        {"artist": "Sadao Watanabe", "title": "Rendezvous"}
+        {
+          "artist": "Sadao Watanabe",
+          "title": "Safari"
+        },
+        {
+          "artist": "Sadao Watanabe",
+          "title": "California Shower",
+          "comment": "That was California Shower. A few things worth remembering. The soft, bell like keyboard you heard is a Fender Rhodes electric piano, and on this record it was played by Dave Grusin. It is one of the signature sounds of this whole era, so you will hear it again and again. And notice that Watanabe never fights the band. He states the melody, plays a short solo, and comes back home. Clean theme, short solo, theme again: that shape is the template for most of what you will hear today."
+        },
+        {
+          "artist": "Sadao Watanabe",
+          "title": "Fire Fly"
+        },
+        {
+          "artist": "Sadao Watanabe",
+          "title": "Rendezvous"
+        }
       ]
     },
     {
       "title": "Masayoshi Takanaka, the guitar that sings",
       "summary": "Takanaka's vocal, tropical guitar, his Latin obsession, and the showman behind it.",
-      "narration": "Next, the guitarist who became the face of Japanese fusion: Masayoshi Takanaka.\n\nTakanaka came from rock. In the early seventies he played in the Sadistic Mika Band, one of the most important Japanese rock groups of the time. In nineteen seventy six he went solo with an album called Seychelles, named after the islands in the Indian Ocean. That title already tells you where his music lives: on a tropical beach.\n\nThree things define Takanaka.\n\nFirst, his guitar sings. He plays melodies the way a vocalist would: long notes that bend, a thick, sustained tone, simple phrases you remember after one listen. Other fusion guitarists want to impress you with speed. Takanaka wants you to sing along. A good test: imagine a singer performing his melody. It almost always works.\n\nSecond, rhythm from Latin America. Samba, salsa and Latin rock run through his records. His nineteen seventy eight album is even called Brasilian Skies. You will hear congas, timbales, whistles, and that rolling Latin bass under the guitar. Takanaka is the bridge between Japanese fusion and the Latin rock of someone like Santana, but sunnier and more playful.\n\nThird, fun and spectacle. Takanaka never pretended this was serious art. He is a showman. He made a guitar built inside a real surfboard and played it on stage. And he still has that energy: this very year, in his seventies, he has been on his first world tour, playing to young audiences who discovered him online.\n\nHe also had an ambitious side. In nineteen eighty one he released The Rainbow Goblins, a concept album based on a children's picture book about goblins who try to steal the colors of a rainbow. It is his most cinematic record.\n\nSo what sets Takanaka apart from Sadao Watanabe? Both are sunny. But Watanabe is a jazz elder playing with restraint. Takanaka is a rock guitarist with a loud, singing tone, and he wants to party.\n\nYour listening guide. First Oh! Tengo Suerte, from his debut. Spanish for oh, I am lucky. Listen to the Latin percussion and how the guitar enters like a voice. Then Ready to Fly: listen for the build, how the band rises under him. Then Blue Lagoon, his most famous track: hum along to the theme, and notice how the solo stays melodic instead of racing. Then Beleza Pula, from Brasilian Skies, pure samba energy. And last, Seven Goblins from The Rainbow Goblins, where you hear the dramatic, cinematic Takanaka."
-,
+      "narration": "Next, the guitarist who became the face of Japanese fusion: Masayoshi Takanaka.\n\nTakanaka came from rock. In the early seventies he played in the Sadistic Mika Band, one of the most important Japanese rock groups of the time. In nineteen seventy six he went solo with an album called Seychelles, named after the islands in the Indian Ocean. That title already tells you where his music lives: on a tropical beach.\n\nThree things define Takanaka.\n\nFirst, his guitar sings. He plays melodies the way a vocalist would: long notes that bend, a thick, sustained tone, simple phrases you remember after one listen. Other fusion guitarists want to impress you with speed. Takanaka wants you to sing along. A good test: imagine a singer performing his melody. It almost always works.\n\nSecond, rhythm from Latin America. Samba, salsa and Latin rock run through his records. His nineteen seventy eight album is even called Brasilian Skies. You will hear congas, timbales, whistles, and that rolling Latin bass under the guitar. Takanaka is the bridge between Japanese fusion and the Latin rock of someone like Santana, but sunnier and more playful.\n\nThird, fun and spectacle. Takanaka never pretended this was serious art. He is a showman. He made a guitar built inside a real surfboard and played it on stage. And he still has that energy: this very year, in his seventies, he has been on his first world tour, playing to young audiences who discovered him online.\n\nHe also had an ambitious side. In nineteen eighty one he released The Rainbow Goblins, a concept album based on a children's picture book about goblins who try to steal the colors of a rainbow. It is his most cinematic record.\n\nSo what sets Takanaka apart from Sadao Watanabe? Both are sunny. But Watanabe is a jazz elder playing with restraint. Takanaka is a rock guitarist with a loud, singing tone, and he wants to party.\n\nYour listening guide. First Oh! Tengo Suerte, from his debut. Spanish for oh, I am lucky. Listen to the Latin percussion and how the guitar enters like a voice. Then Ready to Fly: listen for the build, how the band rises under him. Then Blue Lagoon, his most famous track: hum along to the theme, and notice how the solo stays melodic instead of racing. Then Beleza Pula, from Brasilian Skies, pure samba energy. And last, Seven Goblins from The Rainbow Goblins, where you hear the dramatic, cinematic Takanaka.",
       "tracks": [
-        {"artist": "Masayoshi Takanaka", "title": "Oh! Tengo Suerte"},
-        {"artist": "Masayoshi Takanaka", "title": "Ready to Fly"},
-        {"artist": "Masayoshi Takanaka", "title": "Blue Lagoon"},
-        {"artist": "Masayoshi Takanaka", "title": "Beleza Pula"},
-        {"artist": "Masayoshi Takanaka", "title": "Seven Goblins"}
+        {
+          "artist": "Masayoshi Takanaka",
+          "title": "Oh! Tengo Suerte"
+        },
+        {
+          "artist": "Masayoshi Takanaka",
+          "title": "Ready to Fly"
+        },
+        {
+          "artist": "Masayoshi Takanaka",
+          "title": "Blue Lagoon",
+          "comment": "That was Blue Lagoon, Takanaka's best known track, and you can hear why. The theme is instantly singable, and the solo never leaves the melody behind. He keeps returning to the same short phrase and bending it a little differently each time. That is his trick. Next comes Beleza Pula, and the mood flips from the beach to the carnival. Listen for the samba percussion taking over the song."
+        },
+        {
+          "artist": "Masayoshi Takanaka",
+          "title": "Beleza Pula"
+        },
+        {
+          "artist": "Masayoshi Takanaka",
+          "title": "Seven Goblins"
+        }
       ]
     },
     {
       "title": "Casiopea, the precision machine",
       "summary": "Casiopea's ensemble playing: unison lines, slap bass, busy drums and synthesizers, and why fans see them as the heart of the scene.",
-      "narration": "Now the band that many fans see as the heart of Japanese fusion: Casiopea.\n\nCasiopea was formed in nineteen seventy six by guitarist Issei Noro, who wrote most of their music. Their first album came out in nineteen seventy nine. By nineteen eighty the classic lineup was in place: Noro on guitar, Tetsuo Sakurai on bass, Minoru Mukaiya on keyboards, and Akira Jimbo on drums.\n\nWith Takanaka, everything was about one voice. With Casiopea, it is about the whole band acting like one machine. Here are the four things to listen for.\n\nOne: the unison line. This is their trademark. A long, fast, twisting melody that guitar, keyboards and bass play together, note for note, perfectly in time. On first listen it sounds cheerful and simple. Try to follow it and you will realize how hard it is. That combination, happy on the surface, insanely difficult underneath, is Casiopea.\n\nTwo: the bass. Tetsuo Sakurai plays slap bass, striking the low strings with his thumb and popping the high ones with his fingers. It gives the band a punchy, percussive bounce. When you hear a sharp, clicking bass sound, that is him.\n\nThree: the drums. Akira Jimbo is one of the most admired drummers in Japan. He plays very busy, detailed patterns, lots of little notes between the main beats, but always clean and controlled. He became famous with drummers around the world.\n\nFour: the keyboards. Minoru Mukaiya brings bright synthesizer sounds that place this music exactly in the early eighties. A fun fact: he later started a company that makes train driving simulators, which tells you something about the precise, engineering mindset of this band.\n\nSo what sets Casiopea apart? Watanabe is warm and relaxed. Takanaka is a singing guitar on the beach. Casiopea is energetic, technical, almost athletic. But they never lose the pop melody, and that is why they were so popular.\n\nThe essential record is Mint Jams, from nineteen eighty two, recorded live in concert in Tokyo. Three of the next songs come from it.\n\nYour listening guide. First Time Limit, from their first album: you can hear the young band, rawer and faster. Then Asayake, which means morning glow: listen to the guitar theme, then wait for Sakurai's slap bass solo. Then Take Me, a softer, melodic piece, so you hear that they can slow down. Then Domino Line: the whole band locks into one long chain of notes, falling like dominoes, and Jimbo gets a drum solo. Finally Dazzling, from nineteen eighty three, the bright, synthesizer heavy Casiopea of the mid eighties."
-,
+      "narration": "Now the band that many fans see as the heart of Japanese fusion: Casiopea.\n\nCasiopea was formed in nineteen seventy six by guitarist Issei Noro, who wrote most of their music. Their first album came out in nineteen seventy nine. By nineteen eighty the classic lineup was in place: Noro on guitar, Tetsuo Sakurai on bass, Minoru Mukaiya on keyboards, and Akira Jimbo on drums.\n\nWith Takanaka, everything was about one voice. With Casiopea, it is about the whole band acting like one machine. Here are the four things to listen for.\n\nOne: the unison line. This is their trademark. A long, fast, twisting melody that guitar, keyboards and bass play together, note for note, perfectly in time. On first listen it sounds cheerful and simple. Try to follow it and you will realize how hard it is. That combination, happy on the surface, insanely difficult underneath, is Casiopea.\n\nTwo: the bass. Tetsuo Sakurai plays slap bass, striking the low strings with his thumb and popping the high ones with his fingers. It gives the band a punchy, percussive bounce. When you hear a sharp, clicking bass sound, that is him.\n\nThree: the drums. Akira Jimbo is one of the most admired drummers in Japan. He plays very busy, detailed patterns, lots of little notes between the main beats, but always clean and controlled. He became famous with drummers around the world.\n\nFour: the keyboards. Minoru Mukaiya brings bright synthesizer sounds that place this music exactly in the early eighties. A fun fact: he later started a company that makes train driving simulators, which tells you something about the precise, engineering mindset of this band.\n\nSo what sets Casiopea apart? Watanabe is warm and relaxed. Takanaka is a singing guitar on the beach. Casiopea is energetic, technical, almost athletic. But they never lose the pop melody, and that is why they were so popular.\n\nThe essential record is Mint Jams, from nineteen eighty two, recorded live in concert in Tokyo. Three of the next songs come from it.\n\nYour listening guide. First Time Limit, from their first album: you can hear the young band, rawer and faster. Then Asayake, which means morning glow: listen to the guitar theme, then wait for Sakurai's slap bass solo. Then Take Me, a softer, melodic piece, so you hear that they can slow down. Then Domino Line: the whole band locks into one long chain of notes, falling like dominoes, and Jimbo gets a drum solo. Finally Dazzling, from nineteen eighty three, the bright, synthesizer heavy Casiopea of the mid eighties.",
       "tracks": [
-        {"artist": "Casiopea", "title": "Time Limit"},
-        {"artist": "Casiopea", "title": "Asayake"},
-        {"artist": "Casiopea", "title": "Take Me", "id": "3YBH5wSe2oj9gNz4phvC3b"},
-        {"artist": "Casiopea", "title": "Domino Line"},
-        {"artist": "Casiopea", "title": "Dazzling"}
+        {
+          "artist": "Casiopea",
+          "title": "Time Limit"
+        },
+        {
+          "artist": "Casiopea",
+          "title": "Asayake",
+          "comment": "That was Asayake. Think back to the slap bass: those sharp, clicking notes were Tetsuo Sakurai's thumb and fingers striking the strings. And notice that guitar and keyboards often played the main theme together, note for note. That is the whole Casiopea trademark in one track. The next song, Take Me, slows everything down, so listen to how the same precise band sounds when it stops racing."
+        },
+        {
+          "artist": "Casiopea",
+          "title": "Take Me",
+          "id": "3YBH5wSe2oj9gNz4phvC3b"
+        },
+        {
+          "artist": "Casiopea",
+          "title": "Domino Line",
+          "comment": "That was Domino Line, and the long drum passage was Akira Jimbo. Even on his own, he kept the pulse of the tune clear: busy, but never messy. Now jump forward one year. In Dazzling, from nineteen eighty three, the synthesizers take a bigger role, and the band sounds brighter and more electronic. Same musicians, new sound of the decade."
+        },
+        {
+          "artist": "Casiopea",
+          "title": "Dazzling"
+        }
       ]
     },
     {
       "title": "T-Square, the anthem makers",
       "summary": "T-Square's wind-synth lead, Masahiro Andoh's anthems, and how their music reached TV, school bands and video games.",
-      "narration": "Casiopea's great rival was T-Square. The two are always compared, so this part is about the difference.\n\nThe band started in nineteen seventy eight as The Square, led by guitarist Masahiro Andoh. In nineteen eighty nine they changed the name to T-Square. Andoh wrote many of their songs, and the band went through many lineup changes, but the sound stayed recognizable.\n\nThe first difference is the lead instrument. Casiopea leads with the guitar and the rhythm section. T-Square leads with a wind instrument. For years their front man was Takeshi Itoh, on saxophone and on the EWI, the electronic wind instrument. It looks like a clarinet, but it plays synthesizer sounds, and it reacts to the player's breath. That gives T-Square its signature tone: a smooth, almost human lead voice that soars above the band.\n\nThe second difference is the writing. Andoh's themes are anthems. Big, emotional melodies that build, lift and land, made for stadiums and for television. If Casiopea impresses you, T-Square tries to move you. Their songs often feel like the soundtrack to the final scene of a movie.\n\nThe third difference is reach. T-Square went far beyond jazz fans. Their song Truth, from nineteen eighty seven, became the theme of Formula One broadcasts on Japanese television, and generations of Japanese viewers know it by heart. Omens of Love, written by keyboardist Hirotaka Izumi, was arranged for concert band and became one of the most played pieces by Japanese school brass bands. And Andoh composed music for the racing video game Gran Turismo. So even if you never heard the name T-Square, you may have heard its sound.\n\nSo here is the comparison in one sentence. Casiopea is a precision machine built around guitar, bass and drums. T-Square is a melody machine built around a singing wind synthesizer.\n\nYour listening guide. First Hank and Cliff, from nineteen eighty three, a bouncy early track where you can hear the band before the big anthems. Then Travelers, from the album Adventures: notice the wide, open feeling, like a road trip. Then Omens of Love: a gentle opening, then a melody built to be played by a hundred students at once. Then Truth: listen for the wind synth taking the theme, and the way the song builds like the start of a race. And finally Samurai Metropolis, from the late nineties, so you can hear how the band kept the anthem style alive with a harder, more modern edge."
-,
+      "narration": "Casiopea's great rival was T-Square. The two are always compared, so this part is about the difference.\n\nThe band started in nineteen seventy eight as The Square, led by guitarist Masahiro Andoh. In nineteen eighty nine they changed the name to T-Square. Andoh wrote many of their songs, and the band went through many lineup changes, but the sound stayed recognizable.\n\nThe first difference is the lead instrument. Casiopea leads with the guitar and the rhythm section. T-Square leads with a wind instrument. For years their front man was Takeshi Itoh, on saxophone and on the EWI, the electronic wind instrument. It looks like a clarinet, but it plays synthesizer sounds, and it reacts to the player's breath. That gives T-Square its signature tone: a smooth, almost human lead voice that soars above the band.\n\nThe second difference is the writing. Andoh's themes are anthems. Big, emotional melodies that build, lift and land, made for stadiums and for television. If Casiopea impresses you, T-Square tries to move you. Their songs often feel like the soundtrack to the final scene of a movie.\n\nThe third difference is reach. T-Square went far beyond jazz fans. Their song Truth, from nineteen eighty seven, became the theme of Formula One broadcasts on Japanese television, and generations of Japanese viewers know it by heart. Omens of Love, written by keyboardist Hirotaka Izumi, was arranged for concert band and became one of the most played pieces by Japanese school brass bands. And Andoh composed music for the racing video game Gran Turismo. So even if you never heard the name T-Square, you may have heard its sound.\n\nSo here is the comparison in one sentence. Casiopea is a precision machine built around guitar, bass and drums. T-Square is a melody machine built around a singing wind synthesizer.\n\nYour listening guide. First Hank and Cliff, from nineteen eighty three, a bouncy early track where you can hear the band before the big anthems. Then Travelers, from the album Adventures: notice the wide, open feeling, like a road trip. Then Omens of Love: a gentle opening, then a melody built to be played by a hundred students at once. Then Truth: listen for the wind synth taking the theme, and the way the song builds like the start of a race. And finally Samurai Metropolis, from the late nineties, so you can hear how the band kept the anthem style alive with a harder, more modern edge.",
       "tracks": [
-        {"artist": "T-Square", "title": "Hank & Cliff"},
-        {"artist": "T-Square", "title": "Travelers"},
-        {"artist": "T-Square", "title": "Omens of Love"},
-        {"artist": "T-Square", "title": "Truth"},
-        {"artist": "T-Square", "title": "Samurai Metropolis"}
+        {
+          "artist": "T-Square",
+          "title": "Hank & Cliff"
+        },
+        {
+          "artist": "T-Square",
+          "title": "Travelers"
+        },
+        {
+          "artist": "T-Square",
+          "title": "Omens of Love",
+          "comment": "That was Omens of Love. If you grew up in Japan, there is a good chance you played it in a school band, because it is a staple of school wind ensembles there. Notice how the melody does almost all the work: you could hum the whole song. Next comes Truth, the Formula One theme. Listen for the moment the wind synthesizer takes the theme, and how the song builds like the start of a race."
+        },
+        {
+          "artist": "T-Square",
+          "title": "Truth"
+        },
+        {
+          "artist": "T-Square",
+          "title": "Samurai Metropolis"
+        }
       ]
     },
     {
       "title": "Kazumi Watanabe, the virtuoso",
       "summary": "The guitarist who broke the rules of the style: harder, darker, more technical, and closest to American fusion.",
-      "narration": "Our sixth artist is guitarist Kazumi Watanabe, and he is the one who breaks the rules we described at the start. No relation to Sadao Watanabe, by the way. Watanabe is a common Japanese name.\n\nKazumi Watanabe was a prodigy. He started recording very young, and by his mid twenties he was known as the most technically gifted guitarist in the country. Where the others put melody first, Watanabe puts the guitar first.\n\nThree things define him.\n\nFirst, technique and tension. His playing is fast, sharp and full of advanced jazz ideas: unusual chords, angular lines that jump around, solos that push hard against the band. Takanaka sings, T-Square soars, and Kazumi Watanabe attacks. Of everyone in this lesson, he is the closest to the American fusion of the first part, and to rock guitar heroes.\n\nSecond, he was at the center of a wider musical world. In nineteen seventy nine he joined Yellow Magic Orchestra, the famous Japanese electronic band, as guest guitarist on their world tour. In the same years he led a project called Kylyn, with keyboardist Ryuichi Sakamoto from that same band. So his music connects fusion to the electronic and experimental side of Japanese music.\n\nThird, ambition. In nineteen eighty he released To Chi Ka, one of his best known albums, and it brought him international attention. Over the following decades he kept recording with top international players and kept changing styles, even recording classical guitar.\n\nSo what sets him apart? Every artist so far, even the most technical ones, wanted you to relax and enjoy. Kazumi Watanabe wants you to pay attention. His music is darker, more surprising, and more demanding, and that is exactly why other guitarists worship him.\n\nYour listening guide. First Sonic Boom, from Kylyn: listen to the energy of that band of young studio stars, and how the guitar cuts through. Then Unicorn: the theme is still catchy, but wait for the solo and hear how wild it gets. Then the title track To Chi Ka: notice the tension in the chords, and how the groove keeps shifting. And finally Liquid Fingers. The title says it all. Just follow his hands."
-,
+      "narration": "Our sixth artist is guitarist Kazumi Watanabe, and he is the one who breaks the rules we described at the start. No relation to Sadao Watanabe, by the way. Watanabe is a common Japanese name.\n\nKazumi Watanabe was a prodigy. He started recording very young, and by his mid twenties he was known as the most technically gifted guitarist in the country. Where the others put melody first, Watanabe puts the guitar first.\n\nThree things define him.\n\nFirst, technique and tension. His playing is fast, sharp and full of advanced jazz ideas: unusual chords, angular lines that jump around, solos that push hard against the band. Takanaka sings, T-Square soars, and Kazumi Watanabe attacks. Of everyone in this lesson, he is the closest to the American fusion of the first part, and to rock guitar heroes.\n\nSecond, he was at the center of a wider musical world. In nineteen seventy nine he joined Yellow Magic Orchestra, the famous Japanese electronic band, as guest guitarist on their world tour. In the same years he led a project called Kylyn, with keyboardist Ryuichi Sakamoto from that same band. So his music connects fusion to the electronic and experimental side of Japanese music.\n\nThird, ambition. In nineteen eighty he released To Chi Ka, one of his best known albums, and it brought him international attention. Over the following decades he kept recording with top international players and kept changing styles, even recording classical guitar.\n\nSo what sets him apart? Every artist so far, even the most technical ones, wanted you to relax and enjoy. Kazumi Watanabe wants you to pay attention. His music is darker, more surprising, and more demanding, and that is exactly why other guitarists worship him.\n\nYour listening guide. First Sonic Boom, from Kylyn: listen to the energy of that band of young studio stars, and how the guitar cuts through. Then Unicorn: the theme is still catchy, but wait for the solo and hear how wild it gets. Then the title track To Chi Ka: notice the tension in the chords, and how the groove keeps shifting. And finally Liquid Fingers. The title says it all. Just follow his hands.",
       "tracks": [
-        {"artist": "Kazumi Watanabe", "title": "Sonic Boom"},
-        {"artist": "Kazumi Watanabe", "title": "Unicorn"},
-        {"artist": "Kazumi Watanabe", "title": "To Chi Ka"},
-        {"artist": "Kazumi Watanabe", "title": "Liquid Fingers"}
+        {
+          "artist": "Kazumi Watanabe",
+          "title": "Sonic Boom"
+        },
+        {
+          "artist": "Kazumi Watanabe",
+          "title": "Unicorn",
+          "comment": "That was Unicorn. Now compare that guitar with Takanaka's Blue Lagoon from earlier. Takanaka kept coming back to the melody. Kazumi Watanabe leaves it behind quickly, with fast runs and sharp turns that build tension, and only then comes home. Same instrument, same era, and two opposite ideas of what a guitar solo is for."
+        },
+        {
+          "artist": "Kazumi Watanabe",
+          "title": "To Chi Ka"
+        },
+        {
+          "artist": "Kazumi Watanabe",
+          "title": "Liquid Fingers"
+        }
       ]
     },
     {
       "title": "Spin-offs: when band members go solo",
       "summary": "What happens when the players behind Casiopea and T-Square step out on their own, and what that reveals about each musician.",
-      "narration": "This part is short, and it is a little detective game. You already know Casiopea and T-Square as bands. Now you will hear what their members did on their own, and you can try to hear which part of the band sound came from each person.\n\nStart with the most famous split. In nineteen eighty nine, bassist Tetsuo Sakurai and drummer Akira Jimbo left Casiopea, and together they formed a duo called Jimsaku, from their two names. Think about what you heard in Casiopea: the slap bass and the busy, precise drums. Jimsaku is that rhythm section set free. The guitar is no longer the center. The groove is. Listen for how much funkier and heavier it feels, and how the bass often plays the melody.\n\nThen guitarist Issei Noro, the man who wrote most of Casiopea, made solo records too. Here the question goes the other way: if the rhythm section left, what did Noro keep? The answer is the melody and the bright harmony. His solo music is softer and more lyrical, closer to city pop. You will hear that the cheerful themes of Casiopea were very much his.\n\nAnd from T-Square, guitarist Masahiro Andoh made a solo album in nineteen eighty six called Melody Book. The title is a confession. Andoh is the melody writer of T-Square, and on his own he goes even further into big, dramatic, movie like themes.\n\nSo here is the lesson from this detective game: in Casiopea, the melody came from Noro and the punch came from Sakurai and Jimbo. In T-Square, the anthems came from Andoh.\n\nYour listening guide. First two tracks by Jimsaku: Make My Time, then Island. Focus on the bass and drums, and notice there is no guitar hero in front. Then Bright Times by Issei Noro: listen for the gentle, sunny melody and hear the Casiopea themes in it. And finally Eyes of the Dragon by Masahiro Andoh: big, dramatic, and full of the same emotion you heard in Truth."
-,
+      "narration": "This part is short, and it is a little detective game. You already know Casiopea and T-Square as bands. Now you will hear what their members did on their own, and you can try to hear which part of the band sound came from each person.\n\nStart with the most famous split. In nineteen eighty nine, bassist Tetsuo Sakurai and drummer Akira Jimbo left Casiopea, and together they formed a duo called Jimsaku, from their two names. Think about what you heard in Casiopea: the slap bass and the busy, precise drums. Jimsaku is that rhythm section set free. The guitar is no longer the center. The groove is. Listen for how much funkier and heavier it feels, and how the bass often plays the melody.\n\nThen guitarist Issei Noro, the man who wrote most of Casiopea, made solo records too. Here the question goes the other way: if the rhythm section left, what did Noro keep? The answer is the melody and the bright harmony. His solo music is softer and more lyrical, closer to city pop. You will hear that the cheerful themes of Casiopea were very much his.\n\nAnd from T-Square, guitarist Masahiro Andoh made a solo album in nineteen eighty six called Melody Book. The title is a confession. Andoh is the melody writer of T-Square, and on his own he goes even further into big, dramatic, movie like themes.\n\nSo here is the lesson from this detective game: in Casiopea, the melody came from Noro and the punch came from Sakurai and Jimbo. In T-Square, the anthems came from Andoh.\n\nYour listening guide. First two tracks by Jimsaku: Make My Time, then Island. Focus on the bass and drums, and notice there is no guitar hero in front. Then Bright Times by Issei Noro: listen for the gentle, sunny melody and hear the Casiopea themes in it. And finally Eyes of the Dragon by Masahiro Andoh: big, dramatic, and full of the same emotion you heard in Truth.",
       "tracks": [
-        {"artist": "Jimsaku", "title": "Make My Time"},
-        {"artist": "Jimsaku", "title": "Island"},
-        {"artist": "Issei Noro", "title": "Bright Times"},
-        {"artist": "Masahiro Andoh", "title": "Eyes of the Dragon"}
+        {
+          "artist": "Jimsaku",
+          "title": "Make My Time"
+        },
+        {
+          "artist": "Jimsaku",
+          "title": "Island",
+          "comment": "That was Island, by Jimsaku. Notice that there was no guitar hero in front: the rhythm section itself was the star, with the bass and drums carrying the energy. Now comes Issei Noro on his own, and the balance flips. The guitar and the sunny melody return to the center. Put the two side by side, and you are hearing the two halves of Casiopea, separated."
+        },
+        {
+          "artist": "Issei Noro",
+          "title": "Bright Times"
+        },
+        {
+          "artist": "Masahiro Andoh",
+          "title": "Eyes of the Dragon"
+        }
       ]
     },
     {
       "title": "Legacy: city pop, the internet and the heirs",
       "summary": "How fusion fed city pop, how the internet rediscovered it decades later, and who carries the sound today.",
-      "narration": "Last part. Let's talk about what happened to this music, and why young people around the world are listening to it again.\n\nFirst, the city pop connection. All through this lesson I said fusion lived next door to city pop. Here is how close they really were. The same studio musicians played on both. A keyboardist like Hiroshi Sato could play a fusion session in the morning and a pop record in the afternoon. His album Awakening, from nineteen eighty two, sits right on the border: soft vocals, but chords, grooves and solos straight out of fusion. When you hear it, you will recognize the brightness and the precision we have been talking about for two hours.\n\nSecond, the rediscovery. In the late eighties and nineties, fusion went out of fashion, in Japan and everywhere. But in the twenty tens, something unexpected happened. City pop songs started going viral on YouTube, with millions of views from listeners who did not speak Japanese. Recommendation algorithms pulled fusion along with them. Producers sampled these records. Fans made playlists for late night drives, exactly the mood we described in the first part. That is why Takanaka could do a world tour in his seventies.\n\nThird, video games. Many Japanese game composers of the eighties and nineties grew up on Casiopea and T-Square, and you can hear it in racing and action game soundtracks: the unison lines, the bright synthesizers, the anthem melodies. For many people outside Japan, game music was their first contact with this sound, without knowing it.\n\nAnd fourth, the heirs. Pianist Hiromi Uehara, who records simply as Hiromi, released her first album, Another Mind, in two thousand three. She is a modern jazz virtuoso, but listen and you will find the whole tradition in her: the technical fireworks of Kazumi Watanabe, the tight unison lines of Casiopea, and the joy of the whole scene.\n\nLet's close the map. Sadao Watanabe: the warm, worldly elder. Takanaka: the singing, tropical guitar. Casiopea: the precision machine. T-Square: the anthem makers with the wind synthesizer. Kazumi Watanabe: the virtuoso who breaks the rules. Different personalities, one shared sound: melody first, bright, precise, and close to pop.\n\nYour last listening guide. First two songs by Hiroshi Sato, I Can't Wait and Blue and Moody Music. Listen for the fusion players hiding inside pop songs. Then Hiromi with XYZ: count how many of today's ideas you can recognize in one track. Thanks for listening, and enjoy the drive."
-,
+      "narration": "Last part. Let's talk about what happened to this music, and why young people around the world are listening to it again.\n\nFirst, the city pop connection. All through this lesson I said fusion lived next door to city pop. Here is how close they really were. The same studio musicians played on both. A keyboardist like Hiroshi Sato could play a fusion session in the morning and a pop record in the afternoon. His album Awakening, from nineteen eighty two, sits right on the border: soft vocals, but chords, grooves and solos straight out of fusion. When you hear it, you will recognize the brightness and the precision we have been talking about for two hours.\n\nSecond, the rediscovery. In the late eighties and nineties, fusion went out of fashion, in Japan and everywhere. But in the twenty tens, something unexpected happened. City pop songs started going viral on YouTube, with millions of views from listeners who did not speak Japanese. Recommendation algorithms pulled fusion along with them. Producers sampled these records. Fans made playlists for late night drives, exactly the mood we described in the first part. That is why Takanaka could do a world tour in his seventies.\n\nThird, video games. Many Japanese game composers of the eighties and nineties grew up on Casiopea and T-Square, and you can hear it in racing and action game soundtracks: the unison lines, the bright synthesizers, the anthem melodies. For many people outside Japan, game music was their first contact with this sound, without knowing it.\n\nAnd fourth, the heirs. Pianist Hiromi Uehara, who records simply as Hiromi, released her first album, Another Mind, in two thousand three. She is a modern jazz virtuoso, but listen and you will find the whole tradition in her: the technical fireworks of Kazumi Watanabe, the tight unison lines of Casiopea, and the joy of the whole scene.\n\nLet's close the map. Sadao Watanabe: the warm, worldly elder. Takanaka: the singing, tropical guitar. Casiopea: the precision machine. T-Square: the anthem makers with the wind synthesizer. Kazumi Watanabe: the virtuoso who breaks the rules. Different personalities, one shared sound: melody first, bright, precise, and close to pop.\n\nYour last listening guide. First two songs by Hiroshi Sato, I Can't Wait and Blue and Moody Music. Listen for the fusion players hiding inside pop songs. Then Hiromi with XYZ: count how many of today's ideas you can recognize in one track. Thanks for listening, and enjoy the drive.",
       "tracks": [
-        {"artist": "Hiroshi Sato", "title": "I Can't Wait"},
-        {"artist": "Hiroshi Sato", "title": "Blue and Moody Music"},
-        {"artist": "Hiromi", "title": "XYZ"}
+        {
+          "artist": "Hiroshi Sato",
+          "title": "I Can't Wait"
+        },
+        {
+          "artist": "Hiroshi Sato",
+          "title": "Blue and Moody Music",
+          "comment": "That was Hiroshi Sato. Did you hear the fusion hiding inside the pop song? The jazzy chords, the tight groove, the clean and bright mix: it is the same toolkit Casiopea and T-Square used, just aimed at a pop record. To finish, we jump twenty years ahead, to Hiromi. Listen for the unison lines, the speed, and the joy. By now you know all of those ideas by name."
+        },
+        {
+          "artist": "Hiromi",
+          "title": "XYZ"
+        }
       ]
     }
   ]
