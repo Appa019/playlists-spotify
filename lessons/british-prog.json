@@ -1,0 +1,164 @@
+{
+  "slug": "british-prog",
+  "title": "British Prog Rock",
+  "description": "About two and a half hours on British progressive rock, 1967 to 1977: where it came from, five key bands and the Canterbury scene, what sets each apart, and the legacy.",
+  "segments": [
+    {
+      "title": "Before the epics: London, 1967",
+      "summary": "How psychedelic London opened the door to progressive rock, the five traits that define prog, and the mellotron.",
+      "narration": "Welcome to British Prog Rock. Over the next eight lessons we will spend about ten years in Britain, from the summer of nineteen sixty seven to the punk explosion of nineteen seventy seven. In that decade, a group of British bands tried to make rock music as ambitious as classical music and jazz. People called it progressive rock, or prog. You will meet five bands and one whole scene, hear what each one did differently, and finish with how the story ended and who carried it on.\n\nLet's start with the trigger. In nineteen sixty seven, London was the center of psychedelia. The Beatles released Sergeant Pepper, an album meant to be heard as a whole, full of studio tricks that could not be played live. In underground clubs like the UFO club, bands played long, improvised pieces with light shows behind them. The three minute single stopped being the only goal. The album, and the long piece, became the new canvas.\n\nProg grew out of that moment, and you can recognize it by five traits. First, long pieces, often split into movements, like a symphony. Second, borrowing from classical music and jazz: odd time signatures, complex chords, long instrumental sections with no singing at all. Third, keyboards as lead instruments: the Hammond organ, the mellotron, and later the Moog synthesizer. Fourth, concept albums, where every song serves one story or theme. And fifth, virtuosity: musicians who practiced like classical players, and liked to show it.\n\nA word on the mellotron, because you will hear it all day. It looks like an organ, but under each key there is a strip of magnetic tape with a real recording on it: strings, flutes, a choir. Press a key and the tape plays. It gives that ghostly, slightly wobbly orchestra sound that defines early prog.\n\nTwo songs from nineteen sixty seven show the doors opening. A Whiter Shade of Pale, by Procol Harum, was a huge hit, and its famous organ line, played by Matthew Fisher, borrows from Bach. Classical music inside a pop single. And Nights in White Satin, by the Moody Blues, from Days of Future Passed, an album that mixes the band with an orchestra and follows a single day, from dawn to night.\n\nHere is your listening guide. In A Whiter Shade of Pale, follow the organ, not the singer: it carries the real melody. In Nights in White Satin, notice the slow build, and the mellotron behind the voice. Neither song is prog yet. They are the first step. Let's listen.",
+      "tracks": [
+        {
+          "artist": "Procol Harum",
+          "title": "A Whiter Shade of Pale",
+          "comment": "That was A Whiter Shade of Pale. The organ line you just heard, played by Matthew Fisher, echoes two famous pieces by Bach. Decades later Fisher went to court for a share of the songwriting credit, and in two thousand nine Britain's highest court gave it to him. Next, Nights in White Satin. Listen for the mellotron behind the voice, and for the flute solo in the middle, played by Ray Thomas."
+        },
+        {
+          "artist": "The Moody Blues",
+          "title": "Nights in White Satin",
+          "id": "6L5BZEcZmD6RBJnimzlyKr"
+        }
+      ]
+    },
+    {
+      "title": "Pink Floyd, sound and space",
+      "summary": "From Syd Barrett's psychedelia to The Dark Side of the Moon and Wish You Were Here: why Pink Floyd's power was space, not speed.",
+      "narration": "Our first band is the one that sold the most and reached the furthest: Pink Floyd.\n\nPink Floyd formed in London in the mid sixties, and their first leader was Syd Barrett, a singer, guitarist and songwriter with a strange, childlike imagination. They became the house band of the London underground, playing long, loud, improvised pieces under light shows. Their first album, The Piper at the Gates of Dawn, came out in nineteen sixty seven. It was recorded at Abbey Road, in the same building where the Beatles were making Sergeant Pepper.\n\nThen it went wrong. Barrett's mental health collapsed, an illness widely linked to heavy LSD use, and by early nineteen sixty eight he was out of the band. Guitarist David Gilmour came in. Bassist Roger Waters slowly became the main writer, with keyboard player Richard Wright and drummer Nick Mason completing the lineup. For a few years the band searched, with long experimental pieces like Echoes, from nineteen seventy one.\n\nThe breakthrough came in nineteen seventy three, with The Dark Side of the Moon. It is one album about the pressures of modern life: time, money, conflict, madness. It stayed on the American album chart for more than nine hundred weeks, which is more than seventeen years. Then came Wish You Were Here, in nineteen seventy five, an album about absence, and partly a tribute to Syd Barrett.\n\nSo what sets Pink Floyd apart? Not speed, and not complexity. Compared with the bands you will meet next, Pink Floyd play slowly and simply. Their weapon is sound and space. They treated the studio as an instrument: tape loops, sound effects, voices, clocks, cash registers. Gilmour's guitar does not race. He plays few notes, bends them, and lets them ring. And Waters' lyrics deal with adult themes: aging, greed, loneliness, the music business. Prog's grandest album is also one of its simplest.\n\nHere is your listening guide. First, Astronomy Domine, from nineteen sixty seven: this is Syd Barrett's band, psychedelic, echoing, a little scary. Then Time, from The Dark Side of the Moon: wait for the clocks, then the slow drum intro, and later Gilmour's solo. Then Money, which opens with a loop of coins and cash registers. And finally Wish You Were Here, the song for Syd: an acoustic guitar, an old radio sound, and a simple question. Notice how far the band traveled in eight years.",
+      "tracks": [
+        {
+          "artist": "Pink Floyd",
+          "title": "Astronomy Domine"
+        },
+        {
+          "artist": "Pink Floyd",
+          "title": "Time",
+          "comment": "That was Time. The clocks at the start were recorded by engineer Alan Parsons, one by one in an antique shop, as a demonstration of surround sound, and the band liked them so much they used them. Remember Gilmour's solo: long, slow bends, every note sung. Next is Money, and here's a challenge: try to count the beat. The cash register loop and the bass line are in seven, not the usual four. Then, when the guitar solo starts, the band switches to four, and the whole song seems to open up."
+        },
+        {
+          "artist": "Pink Floyd",
+          "title": "Money"
+        },
+        {
+          "artist": "Pink Floyd",
+          "title": "Wish You Were Here"
+        }
+      ]
+    },
+    {
+      "title": "King Crimson, the dark laboratory",
+      "summary": "The album many call the first true prog record, Robert Fripp's ever-changing band, and why Crimson are the most restless band in prog.",
+      "narration": "If Pink Floyd are about space, King Crimson are about tension. Many people date the true beginning of progressive rock to one album: In the Court of the Crimson King, released in October nineteen sixty nine.\n\nThe band was led by guitarist Robert Fripp, a serious, almost academic musician who rarely smiled on stage and often played sitting down. The first lineup had Greg Lake on bass and vocals, Ian McDonald on saxophone, flute and mellotron, Michael Giles on drums, and Peter Sinfield writing the lyrics. That July, before the album was even out, they played to a huge crowd in Hyde Park, opening for the Rolling Stones, and word spread fast.\n\nThe album did something nobody had quite done. It opened with a violent, distorted, jazz influenced assault, then turned to slow, sad ballads drenched in mellotron. Heavy and beautiful on the same record. Pete Townshend of The Who called it an uncanny masterpiece.\n\nThe first lineup fell apart within a year. And that became the King Crimson rule: Fripp kept the name and kept changing the musicians, each time with a new sound. By nineteen seventy four the band was a trio, with John Wetton on bass and Bill Bruford, who had left Yes, on drums. Their album Red is heavy, dark and loud, and many hear it as a forerunner of the metal and alternative rock that came later. Just before it came out, Fripp dissolved the band.\n\nSo what sets King Crimson apart? They are the least comfortable band in prog. Where others aim for beauty or spectacle, Crimson aim for intensity and surprise. Fripp's guitar is precise and cold, built on long, fast, repeating patterns rather than bluesy solos. The rhythms are jagged. And the band treated each era as an experiment, never as a formula.\n\nHere is your listening guide. First, Twenty First Century Schizoid Man, the opener of the first album: the distorted voice, the saxophones, and the middle section where the whole band plays fast lines together, note for note. Then Epitaph, from the same record: listen for the wall of mellotron, and Greg Lake's mournful voice. And finally Red, from nineteen seventy four, an instrumental: notice how heavy a trio can sound, and how the guitar riff keeps climbing.",
+      "tracks": [
+        {
+          "artist": "King Crimson",
+          "title": "21st Century Schizoid Man",
+          "comment": "That was Twenty First Century Schizoid Man. The voice was Greg Lake's, run through distortion. Did you catch the middle section, where guitar, saxophone, bass and drums play the same fast, stop and start line together? That kind of tight unison, borrowed from jazz, becomes a prog trademark. And keep Greg Lake's name in mind: you will meet him again, in another band. Now Epitaph turns it all around. Same musicians, almost no distortion, just mellotron and sorrow."
+        },
+        {
+          "artist": "King Crimson",
+          "title": "Epitaph"
+        },
+        {
+          "artist": "King Crimson",
+          "title": "Red"
+        }
+      ]
+    },
+    {
+      "title": "Yes, the bright cathedral",
+      "summary": "Yes's classic lineup, its five distinct voices, its optimism and harmony, and Tales from Topographic Oceans as the symbol of excess.",
+      "narration": "After Crimson's darkness, here comes the sunniest band in prog: Yes.\n\nYes formed in London in nineteen sixty eight, around singer Jon Anderson and bassist Chris Squire. Their classic lineup came together in nineteen seventy and seventy one, when guitarist Steve Howe and then keyboard player Rick Wakeman joined, with Bill Bruford on drums. In nineteen seventy one alone they released two landmark albums, The Yes Album and Fragile. Then came Close to the Edge, in nineteen seventy two, with a title piece of nearly nineteen minutes that fills a whole side of the record.\n\nEach member had a very personal voice. Anderson sang high, almost like a choirboy, with mystical, abstract lyrics where the sound of the words matters more than their meaning. Squire played his Rickenbacker bass with a bright, biting tone, high in the mix, more like a lead instrument than a background. Howe could switch from country picking to classical guitar to jazz in one song. Wakeman surrounded himself with banks of keyboards and wore a sequined cape on stage. And Roger Dean's paintings of floating islands on the covers gave the music a fantasy world to live in.\n\nSo what sets Yes apart? Optimism and harmony. Where King Crimson aim for tension, Yes aim for uplift. They sing in rich three part vocal harmonies. Their songs are built like cathedrals: many sections stacked with care, every instrument on its own line, all fitting together. It is the most classical sounding of the big bands, but bright and joyful.\n\nYes also show the danger of prog. In nineteen seventy three they released Tales from Topographic Oceans, a double album with only four pieces, each around twenty minutes long. Even Wakeman complained about it, and he left soon after. For critics, it became the symbol of prog going too far.\n\nHere is your listening guide. First, Roundabout, from Fragile: it opens with a strange swelling sound, a piano note played backwards, then acoustic guitar, and then Squire's bass drives the song like a motor. Then I've Seen All Good People, from The Yes Album: the first half is built on layered vocal harmonies, the second is a simple, happy shuffle. And finally Long Distance Runaround, a short one: listen for how guitar and voice answer each other, in tricky rhythms that still feel light.",
+      "tracks": [
+        {
+          "artist": "Yes",
+          "title": "Roundabout",
+          "comment": "That was Roundabout. Did you hear Chris Squire's bass? Bright, almost metallic, and busy, like a second lead guitar. That tone, a Rickenbacker picked hard, became a model for prog bassists. Notice too the long instrumental stretch in the middle, where Wakeman's organ and Howe's guitar trade phrases. Next comes I've Seen All Good People. In its first half, listen for the vocal harmonies, three voices weaving together: that is the Yes signature."
+        },
+        {
+          "artist": "Yes",
+          "title": "I've Seen All Good People"
+        },
+        {
+          "artist": "Yes",
+          "title": "Long Distance Runaround"
+        }
+      ]
+    },
+    {
+      "title": "Genesis, theater and storytelling",
+      "summary": "Genesis's English stories, Peter Gabriel's costumes, Tony Banks's keyboard landscapes, and how a prog band became a pop band.",
+      "narration": "Our next band brings the theater: Genesis.\n\nGenesis started at Charterhouse, an elite private school in the south of England, where singer Peter Gabriel, keyboard player Tony Banks and guitarist and bassist Mike Rutherford met as teenagers. By nineteen seventy one the classic lineup was set, with guitarist Steve Hackett and a young drummer named Phil Collins. Between nineteen seventy one and seventy four they made the four albums that define their sound: Nursery Cryme, Foxtrot, Selling England by the Pound, and The Lamb Lies Down on Broadway.\n\nGenesis are storytellers. Their songs are full of characters, myths and very English images: Victorian ghosts, gardens, lawnmowers, dark fairy tales. Their twenty three minute epic, Supper's Ready, tells a whole story in seven parts. And the stories came alive on stage. Gabriel shaved a strip of his hair, painted his face, and wore costumes: a fox's head with a red dress, a flower mask, an old man's mask.\n\nMusically, the center of Genesis is Tony Banks. His keyboards build lush, layered landscapes, often in shifting, complex chords. Hackett's guitar is less of a star than in other bands. He blends in and adds texture, and when he does step forward, his solos sing. The result is warmer and more romantic than Yes, and less aggressive than King Crimson.\n\nIn nineteen seventy four Gabriel led the band through The Lamb Lies Down on Broadway, a double album telling the surreal story of Rael, a Puerto Rican kid in New York. Then he left the band. Many people expected Genesis to end. Instead, Phil Collins stepped out from behind the drums and became the singer, and over the next decade Genesis turned into one of the biggest pop bands in the world. A prog band becoming a pop band: remember that, because it is part of how this story ends.\n\nHere is your listening guide. First, I Know What I Like, from Selling England by the Pound, their first hit single in Britain: listen for the lazy summer mood, the buzzing sound effects, and the very English character, a young man who just wants to mow lawns. Then Firth of Fifth, from the same album: a dramatic classical piano opening by Banks, and later, Hackett's soaring guitar solo. And finally The Lamb Lies Down on Broadway, the title song of the double album: a harder, punchier sound, with Gabriel narrating the streets of New York.",
+      "tracks": [
+        {
+          "artist": "Genesis",
+          "title": "I Know What I Like (In Your Wardrobe)"
+        },
+        {
+          "artist": "Genesis",
+          "title": "Firth of Fifth",
+          "comment": "That was Firth of Fifth. Think back to the opening, Banks alone at the piano, almost like a classical recital piece. Then Steve Hackett's guitar solo takes a melody you heard earlier in the song and stretches it, note by note, over a rolling bed of keyboards. It is a fan favorite, and notice that it is slow and lyrical, not fast. Now the title song of The Lamb, from a year later, and a harder, city sound."
+        },
+        {
+          "artist": "Genesis",
+          "title": "The Lamb Lies Down on Broadway"
+        }
+      ]
+    },
+    {
+      "title": "Emerson, Lake and Palmer, the supergroup",
+      "summary": "Prog's first supergroup: a trio with no guitarist, the Moog as lead instrument, classical showpieces at rock volume.",
+      "narration": "Remember Greg Lake, the voice of King Crimson's first album? In nineteen seventy he left to form a new band, and it became prog's first supergroup: Emerson, Lake and Palmer.\n\nKeith Emerson came from The Nice, a band that already played rock versions of classical music, and he was famous for abusing his Hammond organ on stage: rocking it, climbing on it, even stabbing knives into the keys to hold the notes down. Carl Palmer came from Atomic Rooster and from the Crazy World of Arthur Brown, a powerhouse drummer. Their first big show was the Isle of Wight festival in nineteen seventy, where they fired cannons on stage.\n\nThe band was a trio with no guitarist. That is the key to their sound: the keyboards do everything. Emerson played Hammond organ, piano, and above all the Moog synthesizer, a new electronic instrument at the time. He was one of the first to take a Moog on tour, a giant cabinet of cables and dials, and he made it scream like a lead guitar.\n\nTheir repertoire leaned on classical music harder than anyone else's. They recorded a whole rock version of Mussorgsky's Pictures at an Exhibition. They adapted Bach, Bartok, Janacek and the American composer Aaron Copland. Their own epics, like Tarkus and Karn Evil Nine, were built in movements, like suites.\n\nSo what sets Emerson, Lake and Palmer apart? Spectacle and virtuosity, without apology. Everything is bigger, faster and louder: a rotating drum kit, a piano spinning in the air, classical showpieces at rock volume. Critics hated them for it, and they became a favorite target when punk arrived. But they sold huge numbers of records, and Emerson's playing influenced generations of keyboard players. And there is a gentle side too: Greg Lake's acoustic ballads, which gave the band some of its biggest radio hits.\n\nHere is your listening guide. First, Lucky Man, from the first album: a simple folk ballad by Greg Lake, and at the very end, listen for the Moog solo. Then Hoedown, from Trilogy, Aaron Copland's cowboy ballet music turned into a rock workout. And finally Karn Evil Nine, first impression, part two, from Brain Salad Surgery, the one that opens with the line: welcome back my friends, to the show that never ends.",
+      "tracks": [
+        {
+          "artist": "Emerson, Lake & Palmer",
+          "title": "Lucky Man",
+          "comment": "That was Lucky Man. Greg Lake said he wrote it as a boy of about twelve, and the band nearly left it off the album. The Moog solo at the end was Keith Emerson, reportedly improvised in a single take, and it helped bring the sound of the synthesizer to rock radio. Now the trio shows its other face. Hoedown is all speed and showmanship, based on Rodeo, a ballet by Aaron Copland. Listen for the square dance tune inside all that organ."
+        },
+        {
+          "artist": "Emerson, Lake & Palmer",
+          "title": "Hoedown"
+        },
+        {
+          "artist": "Emerson, Lake & Palmer",
+          "title": "Karn Evil 9: 1st Impression, Pt. 2"
+        }
+      ]
+    },
+    {
+      "title": "The Canterbury scene, jazz and English whimsy",
+      "summary": "Soft Machine, Caravan, Robert Wyatt and Hatfield and the North: the quieter, jazzier, funnier branch of prog.",
+      "narration": "Not all of prog was about stadiums and capes. In and around the cathedral city of Canterbury, in the south east of England, a small circle of friends built a quieter, stranger branch of the music. It is known as the Canterbury scene.\n\nIt started in the mid sixties with a local band called the Wilde Flowers. When it split, its members formed the two bands that define the scene: Soft Machine and Caravan. Soft Machine, with drummer and singer Robert Wyatt, played the same London clubs as early Pink Floyd, and moved steadily toward jazz, until they were really a jazz rock band. Caravan kept more of the pop song, with gentle melodies and long, fuzzy organ solos. Later bands like Hatfield and the North and National Health carried the sound into the late seventies, with the same players moving from band to band.\n\nWhat makes Canterbury different? Three things. First, jazz more than classical music: improvisation, jazz chords, and odd time signatures that feel relaxed rather than showy. Second, the voices: soft, plain, very English singing, never operatic. And third, humor. Canterbury songs are full of puns, silly titles and gentle jokes, a very English whimsy. Where Emerson, Lake and Palmer wanted to impress you, the Canterbury bands wanted to amuse you, and then lose you in a long jam.\n\nOne story sums up the spirit of the scene. In nineteen seventy three, Robert Wyatt fell from a fourth floor window at a party and was left paralyzed from the waist down. He could no longer play the drums. Instead, he made an album of songs from his wheelchair, Rock Bottom, released in nineteen seventy four, and it was produced by Nick Mason, the drummer of Pink Floyd. It is one of the most moving records of the decade.\n\nHere is your listening guide. First, Golf Girl, by Caravan, from In the Land of Grey and Pink: a silly love song about a girl selling cups of tea on a golf course, sung by Richard Sinclair's warm voice. Then Sea Song, the opening track of Rock Bottom: Wyatt's fragile, high voice over keyboards that seem to float underwater. And finally Share It, by Hatfield and the North, from The Rotters' Club: a bouncy, jazzy pop song with constantly shifting chords. Notice how this complex music never sounds difficult.",
+      "tracks": [
+        {
+          "artist": "Caravan",
+          "title": "Golf Girl"
+        },
+        {
+          "artist": "Robert Wyatt",
+          "title": "Sea Song",
+          "comment": "That was Sea Song. Wyatt could no longer play a drum kit, so the music floats instead of driving forward. The lyrics are a strange, tender love song that sees a lover as a creature of the sea. Next, Hatfield and the North. Listen for a familiar voice: Richard Sinclair, who sang Golf Girl with Caravan, sings here too. Same scene, same friends, new band."
+        },
+        {
+          "artist": "Hatfield & The North",
+          "title": "Share It"
+        }
+      ]
+    },
+    {
+      "title": "Punk, survival, and the heirs",
+      "summary": "How punk made prog unfashionable, how the bands survived by changing, and who carried the ideas into the nineties and beyond.",
+      "narration": "Our last lesson is about the ending, and about why the story did not really end.\n\nBy nineteen seventy six, prog had become huge and heavy: triple live albums, twenty minute songs, orchestras on tour, stages full of equipment. For a new generation of British kids, many of them unemployed and angry, it sounded like music for rich people. Punk was their answer. Three chords, two minutes, no solos. Johnny Rotten of the Sex Pistols wore a Pink Floyd T shirt with the words I hate scrawled above the band's name. Almost overnight, prog became the most unfashionable music in Britain.\n\nThe bands survived by changing. Pink Floyd went darker and angrier, with Animals in nineteen seventy seven and The Wall in nineteen seventy nine, which became one of the best selling albums of all time. Genesis became a pop band with Phil Collins. Yes reached number one in America with Owner of a Lonely Heart, released in nineteen eighty three. King Crimson came back in nineteen eighty one with a new lineup and a lean, modern sound. And in the eighties a new British band, Marillion, revived the Genesis style, in a movement called neo prog.\n\nBut the real legacy is in what came later, often from musicians who would never call themselves prog. Many heavy metal bands borrowed its long structures and odd meters. In the nineties, Radiohead made OK Computer, a dark album meant to be heard as a whole, with songs that change section after section. And Steven Wilson, with his band Porcupine Tree, kept the spirit of Pink Floyd and King Crimson alive, and later remixed classic albums by King Crimson, Yes and Jethro Tull for new generations.\n\nSo, after eight lessons, here is the short version. Pink Floyd: sound and space. King Crimson: tension and experiment. Yes: harmony and uplift. Genesis: theater and storytelling. Emerson, Lake and Palmer: keyboards and spectacle. Canterbury: jazz and humor. One idea joins them all: that rock could be as ambitious as any other music.\n\nHere is your listening guide for the last two tracks. First, Paranoid Android, by Radiohead, from nineteen ninety seven: count the sections, and notice how the mood changes several times, like a small suite. Then Trains, by Porcupine Tree, from two thousand two: an acoustic song with the patience and melody of Pink Floyd. Listen for the moment it suddenly shifts rhythm.",
+      "tracks": [
+        {
+          "artist": "Radiohead",
+          "title": "Paranoid Android",
+          "comment": "That was Paranoid Android. Did you count the sections? Radiohead were often compared to Pink Floyd at the time, and they denied being a prog band, but the shape is the same idea you heard in Roundabout and Firth of Fifth: a song as a journey in several parts. Now, for the last track, Trains, by Porcupine Tree. Listen for Steven Wilson's clean, patient guitar and how much space he leaves. The lesson of Pink Floyd, thirty years later. After this track, British Prog Rock is over. Thanks for listening."
+        },
+        {
+          "artist": "Porcupine Tree",
+          "title": "Trains"
+        }
+      ]
+    }
+  ]
+}
